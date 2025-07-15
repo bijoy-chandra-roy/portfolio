@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .open-sans {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -51,7 +55,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin: 50px 100px;
+  margin: 0px 100px 50px;
 }
 
 .nav-title {
