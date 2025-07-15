@@ -71,6 +71,12 @@ nav ul li a {
   font-size: 20px;
 }
 
+.contact{
+  background-color: #fff8f3;
+  color: #fd6e0a;
+  border: 1px solid #fd6e0a;
+}
+
 /* banner styles */
 
 .banner {
